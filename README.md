@@ -1,2 +1,2 @@
 # coop-platformer-rl
-A co-operative platformer reinforcement learning project
+A co-operative puzzle game reinforcement learning project
